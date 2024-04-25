@@ -1,6 +1,7 @@
-.format, body, pre, h1 {
-	font-family: Comic Sans MS;
+html, body {
+	font-family: "Comic Sans MS";
 	text-align: center;
+	padding: 20px;
 }
 
 a:link, a:visited {
@@ -10,4 +11,10 @@ a:link, a:visited {
 
 pre {
 	line-height: 2.0;
+	font-family: "Comic Sans MS";
+	text-align: center;
+}
+
+video {
+	margin: 50px;
 }
